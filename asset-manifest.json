@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CreatingSimpleReactComponent-RandomCharacter/static/css/main.e77f3419.css",
+    "main.js": "/CreatingSimpleReactComponent-RandomCharacter/static/js/main.4ab1c038.js",
+    "index.html": "/CreatingSimpleReactComponent-RandomCharacter/index.html",
+    "main.e77f3419.css.map": "/CreatingSimpleReactComponent-RandomCharacter/static/css/main.e77f3419.css.map",
+    "main.4ab1c038.js.map": "/CreatingSimpleReactComponent-RandomCharacter/static/js/main.4ab1c038.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e77f3419.css",
+    "static/js/main.4ab1c038.js"
+  ]
+}
