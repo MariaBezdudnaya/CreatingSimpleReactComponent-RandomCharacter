@@ -2,7 +2,7 @@ import "./styles.css";
 import { useState, useEffect, useRef } from "react";
 import { getRandomHexColor, getRandomElementOfArray } from "./utils";
 import { API_URL } from "./consts";
-import { API_FETCH_INTERVAL } from "./consts";
+// import { API_FETCH_INTERVAL } from "./consts";
 
 const Character = () => {
     const [visibility, setVisibility] = useState(true);

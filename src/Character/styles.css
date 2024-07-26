@@ -1,5 +1,6 @@
 .Character {
+    margin: 20px auto;
+    width: 30%;
     border: 4px solid lightblue;
     padding: 20px;
-    margin: 10px;
 }
